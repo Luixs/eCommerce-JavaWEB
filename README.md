@@ -1,40 +1,60 @@
-# eCommerce-JavaWEB
-Concept create using JAVA WEB + PostgreSQL + Apache
-
 <!-- MAIN PAGE -->
 <br />
-<div align="center">
-  <h2 align="center">L2-Store</h2>
-  <h3 align="center">eCommerce-JavaWEB</h3>
-
+<div align="center" id="top">
+  <h1 align="center">L2-Store</h1>
+  Concept create using JAVA WEB + PostgreSQL + Apache
   <p align="center">
-    Concept create using JAVA WEB + PostgreSQL + Apache
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>See the Project files »</strong></a>
+    <a href="https://github.com/Luixs/eCommerce-JavaWEB/tree/main/L2Store/src/main/webapp"><strong>See the Project files »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/Luixs/eCommerce-JavaWEB/tree/main/Demos">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">suggestions to the project</a>
+    <a href="https://www.linkedin.com/in/luis-tarlino/">suggestions to the project</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Talk with me</a>
+    <a href="https://www.linkedin.com/in/luis-tarlino/">Talk with me</a>
   </p>
 </div>
 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#">Prerequisites</a></li>
+        <li><a href="#">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#">Usage</a></li>
+  </ol>
+</details>
+
 <!-- ABOUT THE PROJECT -->
-## About The Project
+<div id= "about-the-project">
+  <h2>About The Project</h2>
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+  [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+  This is the first page of E-Commerce (L2 Store) where I show the concepts of the "Brand". 
+  This projetc was developed for an activity at the college, where i carry out all the construction of the front and back using Java and some more componets
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+  Project Proposal:
+  * Create an online sales site, regardless of the product.
+  * Have a sales screen, login and registration.
+  * GHave an automated test script
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+  In this project i took the opportunity to develop some screens more precisely to improve my learning and techniques in the chosen language
+  <p align="right">(<a href="#top">Back to Top!</a>)</p>
+</div
 
-Use the `BLANK_README.md` to get started.
+<!-- MARKDOWN LINKS & IMAGES -->
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+[product-screenshot]: Demos/StorePage.png
